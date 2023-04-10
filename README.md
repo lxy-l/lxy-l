@@ -1,4 +1,5 @@
-![](https://raw.githubusercontent.com/lxy-l/lxy-l/main/assets/github-contribution-grid-snake.svg)
+# 学技术不如出去卖炒饭
+# 你技术再牛逼，年龄大了也得去送外卖
 
 <!---
 lxy-l/lxy-l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
