@@ -1,6 +1,6 @@
 <div align="center">
 
-<a height="200px" align="center"> 🎉 About Me</a>
+<h2 height="200px" align="center"> 🎉 About Me</h2>
 
 <div>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
