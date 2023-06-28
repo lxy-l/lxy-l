@@ -5,9 +5,10 @@
  <br> -->
  
   <!-- Quotes 名人名言 -->
-  <div>
+  <!-- <div>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light_mocha" />
- </div>
+ </div> -->
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light_mocha)
 
   <!-- <br>
   
