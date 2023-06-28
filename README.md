@@ -1,14 +1,14 @@
 <div align="center">
   <!-- 关于我 -->
-  <h2 height="200px" align="center"> 🎉 About Me</h2>
+  <h2 align="center"> 🎉 About Me</h2>
 
   <!-- Quotes 名人名言 -->
-  <div>
+  <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light_mocha" />
  </div>
 
   <br>
-  
+  <img width="200%" src="https://cdn.jsdelivr.net/gh/lxy-l/lxy-l/assets/images/hr.gif" />
   <div align="center">
     <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
