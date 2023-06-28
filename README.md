@@ -7,6 +7,8 @@
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light_mocha" />
  </div>
 
+  <br>
+  
   <div align="center">
     <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
