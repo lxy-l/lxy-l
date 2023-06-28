@@ -8,7 +8,7 @@
   <!-- <div>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light_mocha" />
  </div> -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 
   <!-- <div align="center">
     <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
