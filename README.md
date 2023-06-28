@@ -3,7 +3,7 @@
 <h2 height="200px" align="center"> 🎉 About Me</h2>
 
 <div>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" />
 </div>
 <div align="center">
     <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
