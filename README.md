@@ -3,9 +3,9 @@
   <h2 height="200px" align="center"> 🎉 About Me</h2>
 
   <!-- Quotes 名人名言 -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light_mocha" />
-  
-  <!-- <br> -->
+  <div>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light_mocha" />
+ </div>
 
   <div align="center">
     <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
@@ -24,7 +24,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/lxy-l/lxy-l/profile-snake-contrib/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/lxy-l/lxy-l/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
-
 </div>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/lxy-l/lxy-l/assets/images/hr.gif" />
