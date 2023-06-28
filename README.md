@@ -1,6 +1,6 @@
 <div align="center">
   <!-- 关于我 -->
-  <h2 height="200px" align="center">🎉 About Me</h2>
+  <a height="200px" align="center">🎉 About Me</a>
   <img width="200%" src="https://cdn.jsdelivr.net/gh/lxy-l/lxy-l/assets/images/hr.gif" />
   <!-- Quotes 名人名言 -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light_mocha" />
